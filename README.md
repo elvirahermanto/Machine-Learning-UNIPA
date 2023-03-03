@@ -1,2 +1,2 @@
 # Machine-Learning-UNIPA
-Repository Machine Learning UNIPA
+Repository untuk informasi Mata Kuliah Machine Learning UNIPA
