@@ -3,4 +3,5 @@ Peraturan Perkuliahan:
   - Mahasiswa diijinkan terlambat bergabung zoom 10 menit setelah kelas dibuka
   - Tidak diperkenankan plagiasi dalam bentuk apapun 
   - Terdapat final project UTS
+  - Final project berupa presentasi
   - Data boleh diambil dari kaggle
