@@ -1,0 +1,3 @@
+Rencana Pertemuan pertama:
+  - Pengenalan web kaggle
+  - Pengenalan git dan github
