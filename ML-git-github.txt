@@ -5,3 +5,4 @@ Rencana Pertemuan pertama:
   - Pengenalan git dan github
     + branch
     + merge
+    + membuat dua branch
