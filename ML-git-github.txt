@@ -3,6 +3,8 @@ Rencana Pertemuan pertama:
     + data melalui website
     + data dengan download
   - Pengenalan git dan github
+    + workflow git
     + branch
     + merge
     + membuat dua branch
+    
