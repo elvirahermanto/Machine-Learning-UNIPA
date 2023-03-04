@@ -1,7 +1,8 @@
 Rencana Pertemuan pertama:
   - Pengenalan web kaggle
+    + membuat akun kaggle
     + data melalui website
     + data dengan download
   - Pengenalan git dan github
-    + branch
-    + merge
+    + workflow git
+    + branch dan merge
